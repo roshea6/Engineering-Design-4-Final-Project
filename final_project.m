@@ -1,0 +1,12 @@
+A = .00004264; 
+B = .0002100;
+C = .0002357; 
+cap = 19.6347222;   %base area of tank square ft
+ht = 6;   %height of tank in ft
+qin = 6.6840278;   %cubic ft/min
+ain = 70;   %how open the inflow valve is
+kout = 0.4824;   %5/2 ft / min
+aout = 90;  %how open the outflow valve is
+Kd=24;
+Ki=4;
+Kp=8000;
